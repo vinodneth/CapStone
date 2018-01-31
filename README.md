@@ -1,2 +1,0 @@
-# CapStone
-Interim
